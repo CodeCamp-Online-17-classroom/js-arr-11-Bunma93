@@ -1,7 +1,7 @@
-# js-lab-96
-### Lab96 Array: remove element
-ให้เขียนโค้ดเพื่อ remove element ในตัวแปร fish ออกให้หมด
+# js-lab-97
+### Lab97 Array: การแทนค่าelement
+ให้เขียนโค้ดเพื่อลบ Jay ออกและใส่ Jack และ Joe เข้าไปแทน
 
 ```JavaScript
-let fish = ['angel', 'clown', 'mandarin', 'sturgeon'];
+const person = ['John', 'Jay', 'Jim', 'Jame'];
 ```
